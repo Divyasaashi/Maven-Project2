@@ -19,10 +19,10 @@
     <finalName>Maven-Project</finalName>
      <plugins>
       <plugin>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-<artifactId>sonar-maven-plugin</artifactId>
-<version>3.11.0.3922</version> <!-- get the latest -->
-     </plugin>
+            <groupId>org.sonarsource.scanner.maven</groupId>
+            <artifactId>sonar-maven-plugin</artifactId>
+            <version>3.14.0.1507</version> <!-- or newer -->
+        </plugin>
     </plugins>
   </build>
 </project>
