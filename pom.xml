@@ -28,8 +28,8 @@
      <plugins>
       <plugin>
             <groupId>org.sonarsource.scanner.maven</groupId>
-            <artifactId>sonar-maven-plugin</artifactId>
-            <version>3.14.0.1507</version> <!-- or newer -->
+    <artifactId>sonar-maven-plugin</artifactId>
+    <version>4.0.0.4121</version> <!-- or newer -->
         </plugin>
     </plugins>
   </build>
